@@ -13,7 +13,6 @@ function getRandomInt(max){
 }
 const UntilNowWord = [""];
 for(let i=0;i<firstWord.length;i++){
-    if(getRandomInt(8) === i){
     if(getRandomInt(7) === i){
         previousWord = firstWord[i];
         UntilNowWord.push(firstWord[i]);
