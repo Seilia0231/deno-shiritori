@@ -1,2 +1,39 @@
 body{
+    background: rgb(118, 237, 241);
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(10, 6, 247);
+    background: rgba(225, 247, 149, 0.993);
+    border: 1px solid green;
+    width: 200px;
+    margin: 30px auto;
+    border-radius: 15%;
+}
+p{
+    font-size: 30px;
+    color: blue;
+    background: greenyellow;
+    width: 500px;
+    border: 1px solid #016839;
+    border-radius: 48%;
+    height: 100px;
+    text-align: center;
+}
+input{
+    color: green;
+    font-size: 15px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    color: blue;
+    background: rgb(146, 248, 3);
+    border-radius: 20%;
+    border: 1px solid green;
+}
+h2{
+    font-size: 100;
+    text-align: center;
 }
